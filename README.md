@@ -19,3 +19,15 @@ Este repositório contém projetos práticos desenvolvidos por mim para aprimora
   - KPI de Vendas, Custos e Lucros
   - Gráficos para visualizar o crescimento de vendas e margens de lucro
   - Comparativo entre custos e lucros em diferentes períodos
+
+### 3. Python Insights2 - data analysis with Python
+
+This project aims to identify the reasons for customer churn and suggest actions to improve retention for a company with 800,000 customers.
+
+**Technologies**:
+- Python
+- Pandas
+- Plotly
+
+### Conclusion:
+We analyzed churn patterns and proposed preventive actions, using interactive visualizations to support decision-making.
